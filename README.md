@@ -5,4 +5,4 @@ This is mainly built for personal use for me to track the time I spend on my cod
 
 ---
 
-> [!NOTE]This is still on early stages and only works on X11 window systems and tracks time only for VSCode
+> This is still on early stages and only works on X11 window systems and tracks time only for VSCode
